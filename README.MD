@@ -7,10 +7,6 @@ Este projeto foi desenvolvido como parte da disciplina de Redes de Computadores 
 Nele, criei um sistema para uma rede empresarial utilizando a plataforma Cisco Packet Tracer. O objetivo principal era criar três redes distintas, cada uma representando um departamento diferente da empresa. Cada departamento foi equipado com seu próprio roteador e utilizou o protocolo OSPF para facilitar a comunicação entre eles. Além disso, foram implementados servidores DHCP em cada sub-rede para atribuição automática de endereços IP aos dispositivos.
 
 
-## Imagens das Rotas nos Roteadores
-
-ALOCAÇÕES DE IPs REALIZADAS NO PROJETO
-
 ## Alocações de IPs Realizadas no Projeto
 
 IPs Alocados para a Rede do Departamento 1:
